@@ -1,5 +1,8 @@
 # Weather Hub
 
+> **Archived coursework (2021).** Built during Butler University's full-stack boot camp. Kept as a record of where I started; no longer maintained.
+
+
 # Built With
 ### Languages
 * HTML
